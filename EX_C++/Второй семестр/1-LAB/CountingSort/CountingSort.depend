@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1747318767 source:d:\main\akram\ex_c++\countingsort\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745973261 source:d:\main\akram\ex_c++\hashmap\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdexcept>
+	<chrono>
+	<functional>
+
