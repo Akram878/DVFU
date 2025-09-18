@@ -1,0 +1,11 @@
+[project]
+name = "messengerapp"
+version = "0.1.0"
+description = "A simple OOP Messenger application with CLI"
+requires-python = ">=3.10"
+readme = "README.md"
+authors = [{name = "Your Name"}]
+
+[project.scripts]
+messengerapp = "app:main"
+
